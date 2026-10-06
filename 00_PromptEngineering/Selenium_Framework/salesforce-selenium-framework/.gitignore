@@ -1,0 +1,19 @@
+﻿# Maven build output
+target/
+
+# Driver binaries — download locally, never commit
+drivers/
+
+# Compiled class files
+*.class
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
